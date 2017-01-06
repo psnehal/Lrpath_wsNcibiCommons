@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codestore/ncibi/projects/!svn/ver/1261/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback
+END
+ThinkBackResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/codestore/ncibi/projects/!svn/ver/1257/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/ThinkBackResults.java
+END
+LRThinkArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/847/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/LRThinkArgs.java
+END
+GseaThinkArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/891/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/GseaThinkArgs.java
+END
+ThinkbackEnrichmentMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/codestore/ncibi/projects/!svn/ver/656/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/ThinkbackEnrichmentMethod.java
+END
+ThinkBackResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/projects/!svn/ver/1257/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/ThinkBackResult.java
+END
+GseaResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/835/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/GseaResult.java
+END
+ThinkbackAdjustmentMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/codestore/ncibi/projects/!svn/ver/1261/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/thinkback/ThinkbackAdjustmentMethod.java
+END

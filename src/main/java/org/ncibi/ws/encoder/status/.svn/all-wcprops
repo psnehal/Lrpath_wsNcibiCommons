@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/codestore/ncibi/projects/!svn/ver/1257/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/encoder/status
+END
+LRPathRequestStatusResponseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/codestore/ncibi/projects/!svn/ver/512/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/encoder/status/LRPathRequestStatusResponseEncoder.java
+END
+ThinkBackRequestStatusResponseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/codestore/ncibi/projects/!svn/ver/1257/WebServices/ws-ncibi-common/trunk/src/main/java/org/ncibi/ws/encoder/status/ThinkBackRequestStatusResponseEncoder.java
+END
